@@ -1,0 +1,57 @@
+[
+    {
+        "latitude": 38.349862,
+        "longitude": 38.361799,
+        "status": "Güvendeyim"
+    },
+    {
+        "latitude": 38.353180,
+        "longitude": 38.377988,
+        "status": "Yardıma İhtiyacım Var"
+    },
+    {
+        "latitude": 38.343701,
+        "longitude": 38.369495,
+        "status": "Acil Yardım Gerek!"
+    },
+    {
+        "latitude": 38.344791,
+        "longitude": 38.381742,
+        "status": "Yardıma İhtiyacım Var"
+    },
+    {
+        "latitude": 38.332184,
+        "longitude": 38.204570,
+        "status": "Acil Yardım Gerek!"
+    },
+    {
+        "latitude": 38.330989,
+        "longitude": 38.206690,
+        "status": "Yardıma İhtiyacım Var"
+    },
+    {
+        "latitude": 38.326945,
+        "longitude": 38.198880,
+        "status": "Güvendeyim"
+    },
+    {
+        "latitude": 38.331270,
+        "longitude": 38.200669,
+        "status": "Yardıma İhtiyacım Var"
+    },
+    {
+        "latitude": 38.331253,
+        "longitude": 38.194057,
+        "status": "Yardıma İhtiyacım Var"
+    },
+    {
+        "latitude": 38.324181,
+        "longitude": 38.207724,
+        "status": "Acil Yardım Gerek!"
+    },
+    {
+        "latitude": 38.330758,
+        "longitude": 38.210037,
+        "status": "Güvendeyim"
+    }
+]

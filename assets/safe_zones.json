@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Güvenli Alan 1",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+    },
+    {
+        "name": "Güvenli Alan 2",
+        "latitude": 37.8044,
+        "longitude": -122.2712
+    },
+    {
+        "name": "Beyler Deresi Şehir Parkı",
+        "latitude": 38.329569,
+        "longitude": 38.212218
+    },
+    {
+        "name": "Yeşilvadi (Beylerderesi) Barajı ",
+        "latitude": 38.335938,
+        "longitude": 38.209477
+    },
+    {
+        "name": "D875",
+        "latitude": 38.339319,
+        "longitude": 38.201630
+    },
+    {
+        "name": "D300",
+        "latitude": 38.329649,
+        "longitude": 38.195607
+    }
+]
