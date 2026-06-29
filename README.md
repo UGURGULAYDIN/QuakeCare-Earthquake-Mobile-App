@@ -54,17 +54,6 @@ The application offers **6 core modules** to simplify earthquake preparedness an
 
 ---
 
-## 📲 Download APK
-
-You can download the latest stable release APK to install the application directly on your Android devices:
-
-> [!IMPORTANT]
-> **[📥 Download QuakeCare APK File (v1.0.0)](#)** *(You may need to allow installations from unknown sources in your device settings after downloading the file.)*
-
-*(Note: You can replace this placeholder with your own APK download link or GitHub Release URL.)*
-
----
-
 ## 📸 Screenshots
 
 <div align="center">
