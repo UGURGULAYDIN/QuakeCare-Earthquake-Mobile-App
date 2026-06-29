@@ -148,7 +148,7 @@ Follow these steps to clone and run the project locally on your machine:
    flutter run
    ```
 
-4. **APK Çıktısı Almak İçin (Android):**
+4. **Build Release APK (Android):**
    ```bash
    flutter build apk --release
    ```
