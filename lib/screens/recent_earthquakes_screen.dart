@@ -23,7 +23,7 @@ class _RecentEarthquakesScreenState extends State<RecentEarthquakesScreen> {
   Future<void> fetchEarthquakeData() async {
     // USGS API URL - Türkiye koordinatlarına yakın büyük depremler
     const apiUrl =
-        "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2024-01-01&endtime=2025-12-31&minmagnitude=4&maxlatitude=42.1&minlatitude=36.0&maxlongitude=45.0&minlongitude=26.0";
+        "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2024-01-01&endtime=2090-12-31&minmagnitude=4&maxlatitude=42.1&minlatitude=36.0&maxlongitude=45.0&minlongitude=26.0";
 
     try {
       final response = await http.get(Uri.parse(apiUrl));
